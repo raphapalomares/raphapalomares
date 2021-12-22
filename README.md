@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @raphapalomares
 - 👀 I’m interested in learn!
-- 🌱 I’m currently learning python, Html and CSS
+- 🌱 I’m currently learning Python, Html, CSS and JavaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
